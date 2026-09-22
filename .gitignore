@@ -1,0 +1,9 @@
+@'
+node_modules/
+.env
+dist/
+.agents/
+.claude/
+.cursor/
+.devin/
+'@ | Set-Content .gitignore
